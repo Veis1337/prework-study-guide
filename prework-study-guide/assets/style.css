@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    font-size: 200%;
+}
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: rgb(134, 38, 143);
+    color: gold;
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    color: gold
+}
+h2 {
+    text-align: left;
+    color:rgb(134, 38, 143)
+}
+
+img {
+    display: block;
+    height: 55px;
+    width: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+    list-style-type: circle;
+    list-style-image: url(bowtie-cat-bullet.png);
+    
+
+}
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #888888;
+    box-shadow: 5px 10px #888888;
+
+}
+
